@@ -55,3 +55,6 @@ python manga_download.py https://www.mangaread.org/manga/omniscient-readers-view
 | `--chapter-pdf` | | Create individual PDFs per chapter |
 | `--no-cleanup` | | Keep downloaded images after PDF creation |
 | `--workers` | `-w` | Concurrent image downloads (default: 4) |
+
+
+**Just a fun project I made with antigravity**
